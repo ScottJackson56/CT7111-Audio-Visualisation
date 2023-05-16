@@ -1,5 +1,6 @@
 # CT7111-Audio-Visualisation
 AUDIO VISUALISER PROJECT V1.1
+REQUIRES UE5.1
 
 Key Features:
 Automatic visualisation of any audio inputs.
